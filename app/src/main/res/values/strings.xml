@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Slingshot</string>
+    <string name="title_activity_main">Slingshot</string>
+    <string name="set_default_browser">Set Slingshot as your default browser to get started</string>
+    <string name="congrats_default">Slingshot is your default browser! Links you click will automatically be shared.</string>
+</resources>
